@@ -27,6 +27,11 @@ This project focuses on **agent orchestration and system design**, not just prom
 
 ---
 
+## 🏗️ Architecture Overview
+
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/0176ff50-b29a-495f-8f27-79f73e265a0a" />
+
+
 ## 🎯 Problem Statement
 
 Most travel chatbots either:
