@@ -1,0 +1,4 @@
+/vectorstores
+/data/flights_ontime.csv
+/old
+.env
